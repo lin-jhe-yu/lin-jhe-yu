@@ -5,17 +5,13 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/jhe-yu-lawrence-lin-b06023208/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
+
 </div>
 
 <br/>
@@ -77,16 +73,16 @@ Experienced data professional passionate about turning data into insights that d
 - **[Reviews to Risk: Modeling Business Closure and Neighborhood Ecosystems](https://github.com/lin-jhe-yu/Reviews_to_Risk_Modeling_Business_Closure_and_Neighborhood_Ecosystems)**  
   PySpark pipelines + transformer NLP → Processed 52M+ reviews, predicted closures (AUC ~0.97), actionable neighborhood & operational insights.
 
-- **[AI Industry Impact: News Trend Analysis]([https://github.com/YOUR-USERNAME/ai-news-impact](https://github.com/lin-jhe-yu/Industry-Impact-of-AI-Insights-from-Large-Scale-News-Analysis)**  
+- **[AI Industry Impact: News Trend Analysis](https://github.com/lin-jhe-yu/Industry-Impact-of-AI-Insights-from-Large-Scale-News-Analysis)**  
   Fine-tuned DistilBERT (95% accuracy), BERTopic + spaCy NER → Extracted 100+ topics and key entities, automated labeling with LLM APIs.
 
 - **[Detecting Synthetic Facial Images](https://github.com/YOUR-USERNAME/detecting-synthetic-faces)**  
   Built lightweight ML models (SVM & XGBoost) using facial embeddings to detect real vs AI-generated faces. Reduced embedding dimensions by ~72% while maintaining strong performance (>75% accuracy). Demonstrated that scalable authenticity screening is achievable without heavy neural networks.
 
-- **[Best Lineup for White Sox Baseball Team](https://github.com/YOUR-USERNAME/best-lineup-white-sox)**  
+- **[Best Lineup for White Sox Baseball Team](https://github.com/lin-jhe-yu/lin-jhe-yu-Best-Lineup-for-the-White-Sox-Baseball-Team)**  
   Led a team of four to design simulation algorithms optimizing baseball lineups → Improved projected team performance by 1.32 wins per season.
 
-- **[Student Attitudes Toward Cosmetic Surgery](https://github.com/YOUR-USERNAME/student-cosmetic-surgery)**  
+- **[Student Attitudes Toward Cosmetic Surgery](https://github.com/lin-jhe-yu/lin-jhe-yu--Understanding-attitudes-towards-cosmetic-surgery-among-tertiary-students-in-Macao)**  
   Led a team of four to conduct hypothesis testing → Revealed strong positive correlations between cosmetic surgery acceptance, consideration, and body surveillance/body shame.
 
 ###### `More projects in my repositories.`

@@ -74,7 +74,7 @@ Experienced data professional passionate about turning data into insights that d
 
 ### Featured Projects
 
-- **[Reviews to Risk: Modeling Business Closure and Neighborhood Ecosystems]([https://github.com/YOUR-USERNAME/reviews-to-risk](https://github.com/lin-jhe-yu/Reviews_to_Risk_Modeling_Business_Closure_and_Neighborhood_Ecosystems))**  
+- **[Reviews to Risk: Modeling Business Closure and Neighborhood Ecosystems](https://github.com/lin-jhe-yu/Reviews_to_Risk_Modeling_Business_Closure_and_Neighborhood_Ecosystems)**  
   PySpark pipelines + transformer NLP → Processed 52M+ reviews, predicted closures (AUC ~0.97), actionable neighborhood & operational insights.
 
 - **[AI Industry Impact: News Trend Analysis](https://github.com/YOUR-USERNAME/ai-news-impact)**  

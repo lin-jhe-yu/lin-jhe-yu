@@ -79,7 +79,7 @@ Experienced data professional passionate about turning data into insights that d
 - **[Azure VM Time Series Forecasting & Cloud Optimization](https://github.com/RyanChenJung/Time-Serie-Analysis-for-Azure-VM)**  
   Built SARIMAX model on Azure VM telemetry to forecast CPU usage (>50% error reduction vs. baseline); supports proactive scaling, zombie detection, and up to 80% cost savings with interactive Streamlit dashboard.
 
-- **[Detecting Synthetic Facial Images](https://github.com/YOUR-USERNAME/detecting-synthetic-faces)**  
+- **[Detecting Synthetic Facial Images](https://github.com/lin-jhe-yu/Detecting-Synthetic-Facial-Images)**  
   Built lightweight ML models (SVM & XGBoost) using facial embeddings to detect real vs AI-generated faces. Reduced embedding dimensions by ~72% while maintaining strong performance (>75% accuracy). Demonstrated that scalable authenticity screening is achievable without heavy neural networks.
 
 - **[Best Lineup for White Sox Baseball Team](https://github.com/lin-jhe-yu/lin-jhe-yu-Best-Lineup-for-the-White-Sox-Baseball-Team)**  

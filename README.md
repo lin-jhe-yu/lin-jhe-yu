@@ -12,15 +12,18 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- Add personal site, X/Twitter, etc. if you have -->
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </div>
 
 <br/>
 
-### 👋 Brief Bio
-Data scientist passionate about building scalable, production-grade ML systems that solve real problems.  
-Focused on large-scale data processing, modern NLP & generative AI, predictive modeling, and cloud-native workflows.  
-Currently deepening expertise in LLMs, agentic systems, and time-series forecasting through advanced applied data science work.
+### About Me
+Experienced data professional passionate about turning data into insights that drive impact in data-driven decision-making. Skilled in data science, machine learning, large-scale analytics, and data visualization, with expertise in fintech, digital marketing, stakeholder engagement, and cross-functional collaboration.
+
+---
 
 ### 🛠️ Technical Stack
 
@@ -29,56 +32,62 @@ Currently deepening expertise in LLMs, agentic systems, and time-series forecast
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**ML / Deep Learning**  
+**ML / Deep Learning Libraries**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-00A86B?style=for-the-badge&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**NLP & Generative AI**  
+**NLP & Generative AI Libraries**  
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-2D5BFF?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00B8D9?style=for-the-badge&logoColor=white)
 ![BERTopic](https://img.shields.io/badge/BERTopic-FF6F61?style=for-the-badge&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logoColor=white)
 ![sentence-transformers](https://img.shields.io/badge/sentence--transformers-4285F4?style=for-the-badge&logoColor=white)
+![Spark NLP](https://img.shields.io/badge/Spark%20NLP-E25A1C?style=for-the-badge&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-FF9933?style=for-the-badge&logoColor=white)
 
-**Data Engineering & Cloud**  
+**Data Engineering & Cloud Libraries / Tools**  
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-249EDC?style=for-the-badge&logo=snowflake&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=hadoop&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF9900?style=for-the-badge&logo=apachehive&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Visualization & Tools**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-1E90FF?style=for-the-badge&logoColor=white)
+![APIs](https://img.shields.io/badge/API-FF8C00?style=for-the-badge&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-8A2BE2?style=for-the-badge&logoColor=white)
+---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **[Reviews to Risk: Business Closure Prediction](https://github.com/YOUR-USERNAME/reviews-to-risk)**  
-  PySpark pipelines + transformer-based NLP → Processed 52M+ reviews, built closure prediction model (high AUC), delivered actionable neighborhood & operational insights.
+  PySpark pipelines + transformer NLP → Processed 52M+ reviews, predicted closures (AUC ~0.97), actionable neighborhood & operational insights.
 
 - **[AI Industry Impact: News Trend Analysis](https://github.com/YOUR-USERNAME/ai-news-impact)**  
-  Fine-tuned DistilBERT for sentiment (high accuracy + improved recall), BERTopic for 100+ topic extraction, spaCy NER + LLM-automated labeling → Uncovered trends in companies, technologies, and AI discourse from large-scale news.
+  Fine-tuned DistilBERT (95% accuracy), BERTopic + spaCy NER → Extracted 100+ topics and key entities, automated labeling with LLM APIs.
 
-More projects in my repositories — focused on scalable ML, GenAI applications, big data ETL, and predictive analytics.
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="40%"/>
-</div>
+### Publications
+- So, S. M., & Lin, L. J. (2025). ARIMA and Exponential Smoothing Models in Forecasting the Macau Property Price Index During COVID-19. *The Journal of Prediction Markets*.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dracula&hide_border=true" alt="Streak"/>
-</div>
+---
 
-<br/>
-
-Open to collaborations on NLP, agentic AI, big data pipelines, or interesting ML challenges.  
-Feel free to reach out! 🚀
+### Fun Facts
+- 🌍 Huge enthusiast for travel  
+- 🤖 Always exploring how AI can solve real-world problems  
+- 🍵 Big oolong tea fan

@@ -74,12 +74,22 @@ Experienced data professional passionate about turning data into insights that d
 
 ### Featured Projects
 
-- **[Reviews to Risk: Business Closure Prediction](https://github.com/YOUR-USERNAME/reviews-to-risk)**  
+- **[Reviews to Risk: Modeling Business Closure and Neighborhood Ecosystems]([https://github.com/YOUR-USERNAME/reviews-to-risk](https://github.com/lin-jhe-yu/Reviews_to_Risk_Modeling_Business_Closure_and_Neighborhood_Ecosystems))**  
   PySpark pipelines + transformer NLP → Processed 52M+ reviews, predicted closures (AUC ~0.97), actionable neighborhood & operational insights.
 
 - **[AI Industry Impact: News Trend Analysis](https://github.com/YOUR-USERNAME/ai-news-impact)**  
   Fine-tuned DistilBERT (95% accuracy), BERTopic + spaCy NER → Extracted 100+ topics and key entities, automated labeling with LLM APIs.
 
+- **[Detecting Synthetic Facial Images](https://github.com/YOUR-USERNAME/detecting-synthetic-faces)**  
+  Built lightweight ML models (SVM & XGBoost) using facial embeddings to detect real vs AI-generated faces. Reduced embedding dimensions by ~72% while maintaining strong performance (>75% accuracy). Demonstrated that scalable authenticity screening is achievable without heavy neural networks.
+
+- **[Best Lineup for White Sox Baseball Team](https://github.com/YOUR-USERNAME/best-lineup-white-sox)**  
+  Led a team of four to design simulation algorithms optimizing baseball lineups → Improved projected team performance by 1.32 wins per season.
+
+- **[Student Attitudes Toward Cosmetic Surgery](https://github.com/YOUR-USERNAME/student-cosmetic-surgery)**  
+  Led a team of four to conduct hypothesis testing → Revealed strong positive correlations between cosmetic surgery acceptance, consideration, and body surveillance/body shame.
+
+###### `More projects in my repositories.`
 ---
 
 ### Publications

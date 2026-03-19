@@ -76,6 +76,9 @@ Experienced data professional passionate about turning data into insights that d
 - **[AI Industry Impact: News Trend Analysis](https://github.com/lin-jhe-yu/Industry-Impact-of-AI-Insights-from-Large-Scale-News-Analysis)**  
   Fine-tuned DistilBERT (95% accuracy), BERTopic + spaCy NER → Extracted 100+ topics and key entities, automated labeling with LLM APIs.
 
+- **[Azure VM Time Series Forecasting & Cloud Optimization](https://github.com/RyanChenJung/Time-Serie-Analysis-for-Azure-VM)**  
+  Built SARIMAX model on Azure VM telemetry to forecast CPU usage (>50% error reduction vs. baseline); supports proactive scaling, zombie detection, and up to 80% cost savings with interactive Streamlit dashboard.
+
 - **[Detecting Synthetic Facial Images](https://github.com/YOUR-USERNAME/detecting-synthetic-faces)**  
   Built lightweight ML models (SVM & XGBoost) using facial embeddings to detect real vs AI-generated faces. Reduced embedding dimensions by ~72% while maintaining strong performance (>75% accuracy). Demonstrated that scalable authenticity screening is achievable without heavy neural networks.
 

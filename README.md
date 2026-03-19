@@ -77,7 +77,7 @@ Experienced data professional passionate about turning data into insights that d
 - **[Reviews to Risk: Modeling Business Closure and Neighborhood Ecosystems](https://github.com/lin-jhe-yu/Reviews_to_Risk_Modeling_Business_Closure_and_Neighborhood_Ecosystems)**  
   PySpark pipelines + transformer NLP → Processed 52M+ reviews, predicted closures (AUC ~0.97), actionable neighborhood & operational insights.
 
-- **[AI Industry Impact: News Trend Analysis](https://github.com/YOUR-USERNAME/ai-news-impact)**  
+- **[AI Industry Impact: News Trend Analysis]([https://github.com/YOUR-USERNAME/ai-news-impact](https://github.com/lin-jhe-yu/Industry-Impact-of-AI-Insights-from-Large-Scale-News-Analysis)**  
   Fine-tuned DistilBERT (95% accuracy), BERTopic + spaCy NER → Extracted 100+ topics and key entities, automated labeling with LLM APIs.
 
 - **[Detecting Synthetic Facial Images](https://github.com/YOUR-USERNAME/detecting-synthetic-faces)**  

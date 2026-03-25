@@ -66,6 +66,7 @@ Experienced data professional passionate about turning data into insights that d
 ![SPSS](https://img.shields.io/badge/SPSS-1E90FF?style=for-the-badge&logoColor=white)
 ![APIs](https://img.shields.io/badge/API-FF8C00?style=for-the-badge&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-8A2BE2?style=for-the-badge&logoColor=white)
+
 ---
 
 ### Featured Projects

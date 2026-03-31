@@ -81,7 +81,7 @@ Experienced data professional passionate about turning data into insights that d
   Built SARIMAX model on Azure VM telemetry to forecast CPU usage (>50% error reduction vs. baseline); supports proactive scaling, zombie detection, and up to 80% cost savings with interactive Streamlit dashboard.
 
 - **[Enhanced Hybrid News Recommendation System](https://github.com/lin-jhe-yu/News-Recommendation-System-with-Agentic-Inspired-Ranking)**  
-  Built hybrid news recommender using **embeddings, FAISS similarity search, ALS, and XGBoost ranking** (AUC ≈ 0.89, AP ≈ 0.73); implemented **agentic-inspired future-reward ranking** to optimize long-term engagement, improving **top-10 NDCG by 7.9%**.
+  Built hybrid news recommender using embeddings, FAISS similarity search, ALS, and XGBoost ranking (AUC ≈ 0.89, Average Precision ≈ 0.73); implemented agentic-inspired future-reward ranking to optimize long-term engagement, improving top-10 NDCG by 7.9%.
 
 - **[Detecting Synthetic Facial Images](https://github.com/lin-jhe-yu/Detecting-Synthetic-Facial-Images)**  
   Built lightweight ML models (SVM & XGBoost) using facial embeddings to detect real vs AI-generated faces. Reduced embedding dimensions by ~72% while maintaining strong performance (>75% accuracy). Demonstrated that scalable authenticity screening is achievable without heavy neural networks.

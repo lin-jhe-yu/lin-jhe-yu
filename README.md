@@ -69,7 +69,9 @@ Experienced data professional passionate about turning data into insights that d
 
 ---
 
-### Featured Projects
+🛠️ Projects by Technical Stack
+<details open>
+<summary><b>Natural Language Processing & LLMs</b></summary>
 
 - **[Reviews to Risk: Modeling Business Closure and Neighborhood Ecosystems](https://github.com/lin-jhe-yu/Reviews_to_Risk_Modeling_Business_Closure_and_Neighborhood_Ecosystems)**  
   PySpark pipelines + transformer NLP → Processed 52M+ reviews, predicted closures (AUC ~0.97), actionable neighborhood & operational insights.
@@ -77,17 +79,27 @@ Experienced data professional passionate about turning data into insights that d
 - **[AI Industry Impact: News Trend Analysis](https://github.com/lin-jhe-yu/Industry-Impact-of-AI-Insights-from-Large-Scale-News-Analysis)**  
   Fine-tuned DistilBERT (95% accuracy), BERTopic + spaCy NER → Extracted 100+ topics and key entities, automated labeling with LLM APIs.
 
-- **[Azure VM Time Series Forecasting & Cloud Optimization](https://github.com/RyanChenJung/Time-Serie-Analysis-for-Azure-VM)**  
-  Built SARIMAX model on Azure VM telemetry to forecast CPU usage (>50% error reduction vs. baseline); supports proactive scaling, zombie detection, and up to 80% cost savings with interactive Streamlit dashboard.
-
 - **[Enhanced Hybrid News Recommendation System](https://github.com/lin-jhe-yu/News-Recommendation-System-with-Agentic-Inspired-Ranking)**  
   Built hybrid news recommender using embeddings, FAISS similarity search, ALS, and XGBoost ranking (AUC ≈ 0.89, Average Precision ≈ 0.73); implemented agentic-inspired future-reward ranking to optimize long-term engagement, improving top-10 NDCG by 7.9%.
+
+</details>
+
+<details>
+<summary><b>Machine Learning & Time Series</b></summary>
+
+- **[TelConnect Customer Churn Prediction & Retention Optimization](https://github.com/lin-jhe-yu/Telconnect-Customer-Churn-Analysis/blob/main/README.md)**  
+  XGBoost + SHAP + profit optimization → Built end-to-end churn pipeline for 7K+ customers, identified key drivers (contract type, tenure), and optimized intervention thresholds; improved net profit by 18% and revenue recovery by $98K through proactive retention strategy.
+
+- **[Azure VM Time Series Forecasting & Cloud Optimization](https://github.com/RyanChenJung/Time-Serie-Analysis-for-Azure-VM)** 
+  Built SARIMAX model on Azure VM telemetry to forecast CPU usage (>50% error reduction vs. baseline); supports proactive scaling, zombie detection, and up to 80% cost savings with interactive Streamlit dashboard.
 
 - **[Detecting Synthetic Facial Images](https://github.com/lin-jhe-yu/Detecting-Synthetic-Facial-Images)**  
   Built lightweight ML models (SVM & XGBoost) using facial embeddings to detect real vs AI-generated faces. Reduced embedding dimensions by ~72% while maintaining strong performance (>75% accuracy). Demonstrated that scalable authenticity screening is achievable without heavy neural networks.
 
-- **[TelConnect Customer Churn Prediction & Retention Optimization](https://github.com/lin-jhe-yu/Telconnect-Customer-Churn-Analysis/blob/main/README.md)**  
-  XGBoost + SHAP + profit optimization → Built end-to-end churn pipeline for 7K+ customers, identified key drivers (contract type, tenure), and optimized intervention thresholds; improved net profit by 18% and revenue recovery by $98K through proactive retention strategy.
+</details>
+
+<details>
+<summary><b>Statistical Analysis & Simulation</b></summary>
 
 - **[Best Lineup for White Sox Baseball Team](https://github.com/lin-jhe-yu/lin-jhe-yu-Best-Lineup-for-the-White-Sox-Baseball-Team)**  
   Led a team of four to design simulation algorithms optimizing baseball lineups → Improved projected team performance by 1.32 wins per season.
@@ -95,7 +107,10 @@ Experienced data professional passionate about turning data into insights that d
 - **[Student Attitudes Toward Cosmetic Surgery](https://github.com/lin-jhe-yu/lin-jhe-yu--Understanding-attitudes-towards-cosmetic-surgery-among-tertiary-students-in-Macao)**  
   Led a team of four to conduct hypothesis testing → Revealed strong positive correlations between cosmetic surgery acceptance, consideration, and body surveillance/body shame.
 
+</details>
+
 ###### `More projects in my repositories.`
+
 ---
 
 ### Publications

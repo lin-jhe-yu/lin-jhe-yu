@@ -69,7 +69,7 @@ Experienced data professional passionate about turning data into insights that d
 
 ---
 
-🛠️ Projects by Technical Stack
+### Projects by Technical Stack
 <details open>
 <summary><b>Natural Language Processing & LLMs</b></summary>
 

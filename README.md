@@ -86,7 +86,7 @@ Experienced data professional passionate about turning data into insights that d
 - **[Detecting Synthetic Facial Images](https://github.com/lin-jhe-yu/Detecting-Synthetic-Facial-Images)**  
   Built lightweight ML models (SVM & XGBoost) using facial embeddings to detect real vs AI-generated faces. Reduced embedding dimensions by ~72% while maintaining strong performance (>75% accuracy). Demonstrated that scalable authenticity screening is achievable without heavy neural networks.
 
-- **[TelConnect Customer Churn Prediction & Retention Optimization](https://github.com/lin-jhe-yu?tab=repositories)**  
+- **[TelConnect Customer Churn Prediction & Retention Optimization](https://github.com/lin-jhe-yu/Telconnect-Customer-Churn-Analysis/blob/main/README.md)**  
   XGBoost + SHAP + profit optimization → Built end-to-end churn pipeline for 7K+ customers, identified key drivers (contract type, tenure), and optimized intervention thresholds; improved net profit by 18% and revenue recovery by $98K through proactive retention strategy.
 
 - **[Best Lineup for White Sox Baseball Team](https://github.com/lin-jhe-yu/lin-jhe-yu-Best-Lineup-for-the-White-Sox-Baseball-Team)**  

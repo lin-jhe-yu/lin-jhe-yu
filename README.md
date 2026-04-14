@@ -87,8 +87,7 @@ Experienced data professional passionate about turning data into insights that d
   Built lightweight ML models (SVM & XGBoost) using facial embeddings to detect real vs AI-generated faces. Reduced embedding dimensions by ~72% while maintaining strong performance (>75% accuracy). Demonstrated that scalable authenticity screening is achievable without heavy neural networks.
 
 - **[TelConnect Customer Churn Prediction & Retention Optimization](https://github.com/lin-jhe-yu?tab=repositories)**  
-  XGBoost + SHAP → Predicted churn for 7K+ customers (AUC = 0.845, Recall ~77%) and identified key drivers (contract type, tenure, service usage)
-Profit-based simulation → Designed 4-tier retention strategy, increasing net profit by 23% ($304K → $359K) and recovering $98K+ revenue via proactive targeting of 2.6K high-risk customers
+  XGBoost + SHAP + profit optimization → Built end-to-end churn pipeline for 7K+ customers, identified key drivers (contract type, tenure), and optimized intervention thresholds; improved net profit by 18% and revenue recovery by $98K through proactive retention strategy.
 
 - **[Best Lineup for White Sox Baseball Team](https://github.com/lin-jhe-yu/lin-jhe-yu-Best-Lineup-for-the-White-Sox-Baseball-Team)**  
   Led a team of four to design simulation algorithms optimizing baseball lineups → Improved projected team performance by 1.32 wins per season.

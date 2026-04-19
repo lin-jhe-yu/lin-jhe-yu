@@ -90,7 +90,7 @@ Experienced data professional passionate about turning data into insights that d
 - **[TelConnect Customer Churn Prediction & Retention Optimization](https://github.com/lin-jhe-yu/Telconnect-Customer-Churn-Analysis/blob/main/README.md)**  
   XGBoost + SHAP + profit optimization → Built end-to-end churn pipeline for 7K+ customers, identified key drivers (contract type, tenure), and optimized intervention thresholds; improved net profit by 18% and revenue recovery by $98K through proactive retention strategy.
 
-- **[Azure VM Time Series Forecasting & Cloud Optimization](https://github.com/RyanChenJung/Time-Serie-Analysis-for-Azure-VM)** 
+- **[Azure VM Time Series Forecasting & Cloud Optimization](https://github.com/lin-jhe-yu/Azure-Virtual-Machine-Time-Series-Forecasting-Cloud-Optimization)** 
   Built SARIMAX model on Azure VM telemetry to forecast CPU usage (>50% error reduction vs. baseline); supports proactive scaling, zombie detection, and up to 80% cost savings with interactive Streamlit dashboard.
 
 - **[Detecting Synthetic Facial Images](https://github.com/lin-jhe-yu/Detecting-Synthetic-Facial-Images)**  

@@ -71,6 +71,14 @@ Experienced data professional passionate about turning data into insights that d
 
 ### Projects by Technical Stack
 <details open>
+<summary><b>AI & Computer Vision</b></summary>
+
+- **[SignBridge: ASL Landmark Recognition](https://github.com/arenmizuno/SignBridge)**
+  MediaPipe + Transformer V3 → Extracted 118 multi-modal landmarks, built 708-feature sequences, achieved 88.9% Top-5 test accuracy for 250 ASL classes.
+
+</details>
+
+<details open>
 <summary><b>Natural Language Processing & LLMs</b></summary>
 
 - **[Reviews to Risk: Modeling Business Closure and Neighborhood Ecosystems](https://github.com/lin-jhe-yu/Reviews_to_Risk_Modeling_Business_Closure_and_Neighborhood_Ecosystems)**  

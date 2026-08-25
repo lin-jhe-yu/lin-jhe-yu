@@ -79,6 +79,9 @@ Experienced data professional passionate about turning data into insights that d
 - **[RAG Pipeline over AI Research Papers](https://github.com/RyanChenJung/Rag-Pipeline-Over-AI-Research-Paper/tree/main)**
   Marker/MinerU + BGE embeddings + Hybrid BM25/Dense retrieval → Built a citation-grounded QA system over 75 ArXiv papers, achieved 0.982 Hit Rate@3 and 0.792 Faithfulness across a 496-query benchmark.
 
+- **[Visual Document Understanding: Hierarchical Table Extraction & Business Insights](https://github.com/RyanChenJung/Hierarchical_Table_PDF_Extraction/blob/main/README.md)**
+  UniTable + SPARTAN + Florence-2 → Benchmarked 5 model architectures on FinTabNet financial tables, SPARTAN's 0.5391 Pipeline TEDS and 0.70 F1 outperformed GPT-4o-mini (0.5109) and LlamaParse (0.5120), shipped as TableSight deployment dashboard.
+  
 </details>
 
 <details open>

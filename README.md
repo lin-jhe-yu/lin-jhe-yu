@@ -76,6 +76,9 @@ Experienced data professional passionate about turning data into insights that d
 - **[SignBridge: ASL Landmark Recognition](https://github.com/arenmizuno/SignBridge)**
   MediaPipe + Transformer V3 → Extracted 118 multi-modal landmarks, built 708-feature sequences, achieved 88.9% Top-5 test accuracy for 250 ASL classes.
 
+- **[RAG Pipeline over AI Research Papers](https://github.com/RyanChenJung/Rag-Pipeline-Over-AI-Research-Paper/tree/main)**
+  Marker/MinerU + BGE embeddings + Hybrid BM25/Dense retrieval → Built a citation-grounded QA system over 75 ArXiv papers, achieved 0.982 Hit Rate@3 and 0.792 Faithfulness across a 496-query benchmark.
+
 </details>
 
 <details open>
